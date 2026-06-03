@@ -12,13 +12,7 @@ import java.sql.ResultSet;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * author: MUHAMMAD AIMAN BIN ZAMRI
- * Matriks No: S74699
- * LAB:2 EXRECISE
- * PROGRAM:CSM3023
- * DATE: 7/4/2026
- */
+
 public class ProductDAO {
     private String jdbcURL = "jdbc:mysql://localhost:3306/cse3023";
     private String jdbcUsername = "root";

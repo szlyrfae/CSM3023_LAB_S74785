@@ -4,13 +4,6 @@
  */
 package com.lab.model;
 
-/**
- * author: MUHAMMAD AIMAN BIN ZAMRI
- * Matriks No: S74699
- * LAB:2 EXRECISE
- * PROGRAM:CSM3023
- * DATE: 7/4/2026
- */
 public class Product {
     private int id;
     private String name;

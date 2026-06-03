@@ -14,10 +14,6 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-/**
- *
- * @author BLADEKAZUMA
- */
 @WebServlet(name = "InsertServlet", urlPatterns = {"/InsertServlet"})
 public class InsertServlet extends HttpServlet {
      private UserDAO userDAO;

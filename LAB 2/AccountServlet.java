@@ -10,12 +10,6 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-/**
- *
- * task 1
- * muhammad aiman bin zamri
- * s74699
- */
 public class AccountServlet extends HttpServlet {
 
     /**

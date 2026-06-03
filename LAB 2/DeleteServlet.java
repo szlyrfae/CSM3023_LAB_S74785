@@ -12,12 +12,6 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import java.sql.*;
 
-
-/**
- *MUHAMMAD AIMAN BIN ZAMRI
- * S74699
- * TASK4 
- */
 public class DeleteServlet extends HttpServlet {
 
     /**

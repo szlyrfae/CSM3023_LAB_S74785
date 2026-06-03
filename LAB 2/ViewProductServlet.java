@@ -14,13 +14,7 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-/**
- * author: MUHAMMAD AIMAN BIN ZAMRI
- * Matriks No: S74699
- * LAB:2 EXRECISE
- * PROGRAM:CSM3023
- * DATE: 7/4/2026
- */
+
 public class ViewProductServlet extends HttpServlet {
     private ProductDAO productDAO;
 

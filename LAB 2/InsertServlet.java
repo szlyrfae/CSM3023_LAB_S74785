@@ -16,12 +16,7 @@ import java.sql.DriverManager;
 import java.sql.PreparedStatement;
 
 
-/**
- *MUHAMMAD AIMAN BIN ZAMRI
- *S74699
- *TASK4
- * 
- */
+
 @WebServlet(name = "InsertServlet", urlPatterns = {"/InsertServlet"})
 public class InsertServlet extends HttpServlet {
 

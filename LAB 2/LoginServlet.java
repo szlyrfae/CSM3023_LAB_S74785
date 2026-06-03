@@ -11,12 +11,7 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-/**
- *MUHAMMAD AIMAN BIN ZAMRI
- * S74699
- * TASK 1
- * 
- */
+
 public class LoginServlet extends HttpServlet {
 
     /**

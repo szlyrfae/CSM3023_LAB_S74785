@@ -4,10 +4,7 @@
  */
 package com.lab.dao;
 
-/**
- *
- * @author BLADEKAZUMA
- */
+
 import com.lab.model.User;
 import java.sql.*;
 import java.util.*;

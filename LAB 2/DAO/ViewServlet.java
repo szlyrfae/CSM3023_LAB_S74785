@@ -14,10 +14,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import java.sql.*;
 import java.util.List;
-/**
- *
- * @author BLADEKAZUMA
- */
+
 public class ViewServlet extends HttpServlet {
     private UserDAO userDAO;
 

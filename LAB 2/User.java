@@ -4,11 +4,7 @@
  */
 package com.lab.model;
 
-/**
- * MUHAMMAD AIMAN BIN ZAMRI 
- * S74699
- * TASK 5
- */
+
 public class User {
     private int id;
     private String username;
